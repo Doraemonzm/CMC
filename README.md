@@ -1,4 +1,4 @@
-#Cross-Modal Knowledge Distillation in Multi-Modal Fake News Detection
+## Cross-Modal Knowledge Distillation in Multi-Modal Fake News Detection
 
 This is a PyTorch implementation of our paper "[Cross-Modal Knowledge Distillation in Multi-Modal Fake News Detection](https://ieeexplore.ieee.org/document/9747280)" (ICASSP 2022).  
 
